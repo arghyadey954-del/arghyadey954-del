@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I am Arghya Dey</h1>
 
 <h3 align="center">An Engineer who enhances Artificial Intelligence with His Intelligence</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Developer;Python+Programmer;Building+Cool+Projects;Learning+New+Technologies+Everyday" />
 </p>
@@ -42,19 +43,23 @@
 </a>&nbsp;&nbsp;&nbsp;
 
 <a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://skillic
+  <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
+
+</p>
 
 ---
 
-##  Languages & Tools  
+## 🛠️ Languages & Tools  
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=py,ai,tensorflow,pytorch,sklearn,git,github,vscode,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ai,tensorflow,pytorch,sklearn,git,github,vscode,linux" height="50"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats  
+
 <p align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadey954-del&theme=tokyonight&hide_border=true" />
 </p>
