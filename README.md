@@ -1,51 +1,45 @@
-<!--# 👋 Hi, I'm Arghya!
+<h1 align="center">Hi 👋, I am Arghya Dey</h1>
 
-## 🐍 Python | 🤖 AI & Machine Learning | 🎓 CSE (Data Science)
+<h3 align="center">An Engineer who enhances Artificial Intelligence with His Intelligence</h3>
 
-I'm a B.Tech CSE (Data Science) student, currently learning Python and building my foundations in AI/ML.  
-I enjoy creating small projects, experimenting with new ideas, and improving step-by-step.
-
----
-
-## 🚀 What I'm Learning
-- Python programming  
-- Logic building & DSA  
-- Machine Learning basics  
-- Web development fundamentals  
-- Git & GitHub  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arghyadey954-del&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
+</p>
 
 ---
 
-## 🛠 Tech Stack (Growing Every Day!)
-- **Languages:** Python, C++ (learning)  
-- **ML Tools:** NumPy, Pandas, scikit-learn (beginner)  
-- **Web:** HTML, CSS (basics)  
-- **Tools:** Git, GitHub, VS Code  
+## 🔥 About Me
+
+- 🚀 Currently Building: **Python & AI/ML Projects**
+- 🌱 Learning: **Python, Artificial Intelligence, Machine Learning**
+- 💼 Portfolio: *(coming soon)*
+- 📫 Reach me at: **arghyadey954@gmail.com**
+- ♟ Fun Fact: *I love learning tech every day!*
 
 ---
 
-## 📘 Current Goals
-- Build small ML models (linear regression, classifiers, etc.)  
-- Make Python projects for portfolio  
-- Learn end-to-end ML workflow  
-- Start contributing to open-source  
+## 🌐 Connect with Me  
+<p align="left">
+<a href="https://www.facebook.com/share/17rakyri2K/"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
+<a href="https://github.com/arghyadey954-del"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+</p>
 
 ---
 
-## 📂 Projects I'm Working On
-- 🔸 Beginner Python apps  
-- 🔸 Simple ML models  
-- 🔸 Automation scripts  
-- (More coming soon!)
+## 🛠 Languages & Tools  
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,ai,tensorflow,pytorch,sklearn,git,github,vscode,linux" />
+</p>
 
 ---
 
-## 📬 Contact Me
-- Email: arghyadey954@gmail.com
-- GitHub: https://github.com/arghyadey954-del
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=arghyadey954-del&show_icons=true&theme=radical"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadey954-del&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-⭐ *Thanks for visiting! Feel free to check out my projects or connect with me.*  
-
-
+## 🚀 Quote  
+### **"Code. Break. Build. Repeat."**
