@@ -46,7 +46,8 @@
 
 ---
 
-##  Languages & Tools  
+## 🛠️ Languages & Tools  
+
 <p align="left">
 <img src="https://skillicons.dev/icons?i=py,ai,tensorflow,pytorch,sklearn,git,github,vscode,linux" />
 </p>
