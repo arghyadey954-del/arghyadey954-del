@@ -26,19 +26,19 @@
 
 <p align="center">
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/arghya.dey_">
   <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://facebook.com/YOUR_FACEBOOK">
+<a href="https://www.facebook.com/share/17rakyri2K/">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/arghya-dey-8a5675369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://auth.geeksforgeeks.org/user/YOUR_GFG">
+<a href="https://auth.geeksforgeeks.org/user/arghyadwf1d">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" height="50"/>
 </a>&nbsp;&nbsp;&nbsp;
 
