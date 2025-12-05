@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I am Arghya Dey</h1>
 
 <h3 align="center">An Engineer who enhances Artificial Intelligence with His Intelligence</h3>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadey954-del&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arghyadey954-del&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
@@ -18,11 +21,28 @@
 
 ---
 
-## 🌐 Connect with Me  
-<p align="left">
-<a href="https://www.facebook.com/share/17rakyri2K/"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-<a href="https://github.com/arghyadey954-del"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-</p>
+## 📬 Connect With Me  
+
+<p align="center">
+
+<a href="https://instagram.com/YOUR_INSTAGRAM">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://facebook.com/YOUR_FACEBOOK">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="50"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://auth.geeksforgeeks.org/user/YOUR_GFG">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" height="50"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://skillic
 
 ---
 
@@ -43,3 +63,7 @@
 
 ## 🚀 Quote  
 ### **"Code. Break. Build. Repeat."**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arghyadey954-del/arghyadey954-del/output/github-snake-dark.svg" />
+</p>
