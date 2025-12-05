@@ -2,7 +2,7 @@
 
 <h3 align="center">An Engineer who enhances Artificial Intelligence with His Intelligence</h3>
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadey954-del&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Developer;Python+Programmer;Building+Cool+Projects;Learning+New+Technologies+Everyday" />
 </p>
 
 <p align="center">
@@ -55,8 +55,7 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=arghyadey954-del&show_icons=true&theme=radical"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghyadey954-del&layout=compact&theme=radical"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadey954-del&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
