@@ -1,74 +1,50 @@
-<h1 align="center">Hi 👋, I am Arghya Dey</h1>
+<div align="center">
 
-<h3 align="center">An Engineer who enhances Artificial Intelligence with His Intelligence</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:FF0000&height=220&section=header&text=ARGHYA%20KAMAL%20DEY&fontSize=45&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Backend&descAlignY=60&descSize=18" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Developer;Python+Programmer;Building+Cool+Projects;Learning+New+Technologies+Everyday" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=900&color=FF3131&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Arghya+%F0%9F%91%8B;Data+Science+Student+%F0%9F%93%8A;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Backend+Developer+%E2%9A%99%EF%B8%8F;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Building+Ideas+Into+Real+Projects+%F0%9F%94%A5" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arghyadey954-del&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
-</p>
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=red&style=for-the-badge" />
 
-## 🔥 About Me
+<br><br>
 
-- 🚀 Currently Building: **Python & AI/ML Projects**
-- 🌱 Learning: **Python, Artificial Intelligence, Machine Learning**
-- 💼 Portfolio: *(coming soon)*
-- 📫 Reach me at: **arghyadey954@gmail.com**
-- ♟ Fun Fact: *I love learning tech every day!*
-
----
-
-## 📬 Connect With Me  
-
-<p align="center">
-
-<a href="https://instagram.com/arghya.dey_">
-  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/share/17rakyri2K/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/arghya-dey-8a5675369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://auth.geeksforgeeks.org/user/arghyadwf1d">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1200px-GeeksforGeeks.svg.png" height="50"/>
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://twitter.com/YOUR_TWITTER">
-  <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-FF0000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 🛠️ Languages & Tools  
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ai,tensorflow,pytorch,sklearn,git,github,vscode,linux" height="50"/>
-</p>
+# 🩸 `THE DEVELOPER BEHIND THE CODE`
 
----
+</div>
 
-## 📊 GitHub Stats  
-
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadey954-del&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🚀 Quote  
-### **"Code. Break. Build. Repeat."**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arghyadey954-del/arghyadey954-del/output/github-snake-dark.svg" />
-</p>
+```text
+╔══════════════════════════════════════════════════════════╗
+║                                                          ║
+║   👨‍💻  ARGHYA KAMAL DEY                                 ║
+║                                                          ║
+║   🎓  B.Tech — Data Science                             ║
+║   🏫  Kazi Nazrul University                            ║
+║                                                          ║
+║   🤖  Artificial Intelligence                           ║
+║   📊  Data Science                                      ║
+║   ⚙️  Backend Development                               ║
+║   ☁️  Cloud & DevOps                                    ║
+║                                                          ║
+║   🔥  BUILDING • LEARNING • EXPERIMENTING               ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
