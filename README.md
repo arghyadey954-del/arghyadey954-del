@@ -1,67 +1,70 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ARGHYA KAMAL DEY                            -->
-<!--                  GitHub Profile README                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<h1 align="center">Hi 👋, I am Arghya Dey</h1>
 
-<div align="center">
+<h3 align="center">An Engineer who enhances Artificial Intelligence with His Intelligence</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,25:1a0000,50:8b0000,75:d00000,100:ff1a1a&height=220&section=header&text=ARGHYA%20KAMAL%20DEY&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=DATA%20SCIENCE%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20BACKEND%20%E2%80%A2%20CLOUD&descAlignY=58&descSize=17&animation=twinkling" width="100%"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+%26+ML+Developer;Python+Programmer;Building+Cool+Projects;Learning+New+Technologies+Everyday" />
+</p>
 
-<br>
-
-<a href="https://github.com/arghyadey954-del">
-<img src="https://komarev.com/ghpvc/?username=arghyadey954-del&label=PROFILE%20VIEWS&color=8b0000&style=for-the-badge" alt="Profile Views"/>
-</a>
-
-<a href="https://github.com/arghyadey954-del?tab=followers">
-<img src="https://img.shields.io/github/followers/arghyadey954-del?label=FOLLOWERS&style=for-the-badge&color=8b0000&labelColor=0d0000" alt="Followers"/>
-</a>
-
-<a href="https://github.com/arghyadey954-del?tab=repositories">
-<img src="https://img.shields.io/github/stars/arghyadey954-del?label=STARS&style=for-the-badge&color=d00000&labelColor=0d0000" alt="Stars"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/arghyadey954-del">
-<img src="https://img.shields.io/badge/GitHub-0d0000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-8b0000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-d00000?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-1a0000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=FF3333&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Turning+Data+Into+Insights;AI%2FML+%7C+Backend+%7C+Cloud;Engineering+Real-World+Solutions;Always+Learning.+Always+Building." alt="Typing Animation"/>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arghyadey954-del&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
+</p>
 
 ---
 
-<div align="center">
+## 🔥 About Me
 
-## `> whoami`
+- 🚀 Currently Building: **Python & AI/ML Projects**
+- 🌱 Learning: **Python, Artificial Intelligence, Machine Learning**
+- 💼 Portfolio: *(coming soon)*
+- 📫 Reach me at: **arghyadey954@gmail.com**
+- ♟ Fun Fact: *I love learning tech every day!*
 
-</div>
+---
 
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│  ARGHYA KAMAL DEY                                                │
-│                                                                  │
-│  B.Tech Data Science Student                                    │
-│  AI/ML Enthusiast • Backend Developer • Cloud Explorer           │
-│                                                                  │
-│  I build intelligent systems, data-driven applications,          │
-│  scalable backend services and practical technology solutions.   │
-│                                                                  │
-│  Currently exploring:                                            │
-│  AI/ML • MLOps • Cloud • GIS • Data Engineering • System Design  │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
+## 📬 Connect With Me  
+
+<p align="center">
+
+<a href="https://instagram.com/arghya.dey_">
+  <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/share/17rakyri2K/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="50"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/arghya-dey-8a5675369?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://twitter.com/YOUR_TWITTER">
+  <img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
+
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ai,tensorflow,pytorch,sklearn,git,github,vscode,linux" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=arghyadey954-del&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Quote  
+### **"Code. Break. Build. Repeat."**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/arghyadey954-del/arghyadey954-del/output/github-snake-dark.svg" />
+</p>
